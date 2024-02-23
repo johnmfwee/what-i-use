@@ -4,5 +4,4 @@ bracketSpacing: true
 endOfLine: 'lf'
 semi: false 
 tabWidth: 2
-trailingCommt
-singleQuote: 'none'
+trailingComma: 'none'
